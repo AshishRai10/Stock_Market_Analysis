@@ -15,7 +15,7 @@ g)pip install tensorflow
 After installing the modules--->
 Step1: Go to to the file location where source file is present.
 Step2: Open Command Prompt.
-Step3: Run the command----->streamlit run <filename>.py
+Step3: Run the command----->streamlit run filename.py
   
   You are good to go!
 
